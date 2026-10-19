@@ -1,1 +1,7 @@
-# Dependências do projeto
+paho-mqtt>=1.6.1
+flask>=2.3.0
+requests>=2.31.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+reportlab>=4.0.0
+streamlit>=1.25.0
